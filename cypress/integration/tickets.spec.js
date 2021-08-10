@@ -105,7 +105,7 @@ describe('Tickets', () => {
     });
 
 
-    it.only("fills mandatory fields using support command", () => {
+    it("fills mandatory fields using support command", () => {
         const customer = {
             firstName: "John",
             lastName: "Doe",
