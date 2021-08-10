@@ -1,3 +1,5 @@
+[![Cypress Tests](https://github.com/Rafael-Albano/cypress-basic/actions/workflows/main.yml/badge.svg)](https://github.com/Rafael-Albano/cypress-basic/actions/workflows/main.yml)
+
 name: Cypress Tests
 
 on: [push]
